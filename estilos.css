@@ -1,0 +1,35 @@
+header {
+    margin: 0;
+    padding: 50px;
+    background: url(http://sicacao.info/wp-content/uploads/2019/08/grano-cacao-sicacao.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+section {
+    margin: 0;
+    padding: 50px;
+    background: url(http://sicacao.info/wp-content/uploads/2019/08/grano-cacao-sicacao.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.container-all img{
+    width: 300px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.CentrarEsteTexto{
+    text-align: center;
+}
+
+.TextoDeLado{
+    text-align: end;
+}
